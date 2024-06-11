@@ -77,7 +77,7 @@ To run the automated tests, execute the following command:
 
 ```bash
 python manage.py test
-
+```
 
 ### Link to Loom Video
 https://www.loom.com/share/fdc9edc163b749ce9db48db75b2d1bc9
